@@ -8,8 +8,8 @@
 
 # How to Execute
 Once navigating to the correct directory, run the make command in your WSL/Linux terminal to compile and build the program
-<img width="482" height="108" alt="Screenshot 2026-06-21 at 4 45 34 PM" src="<img width="964" height="216" alt="image" src="https://github.com/user-attachments/assets/6ba1436d-04fb-4dcd-b748-47f33caf9b78" />
-" />
+<img width="964" height="216" alt="image" src="https://github.com/user-attachments/assets/6ba1436d-04fb-4dcd-b748-47f33caf9b78" />
+
 
 Then run the command "./recv" to run the receiver program program. This program must always run first.
 <img width="964" height="83" alt="image" src="https://github.com/user-attachments/assets/e1126c83-9c59-4e8d-9db7-99ccb6b21f96" />
